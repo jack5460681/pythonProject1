@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Sep 29 14:27:22 CST 2020","Tue Sep 29 14:27:22 CST 2020","0","test3","测试套件","TestPytestOne","","","测试标题：用例一","测试用例描述：用例一"
+"passed","Tue Sep 29 14:27:22 CST 2020","Tue Sep 29 14:27:22 CST 2020","0","test3","test_4","TestClass","","","test_one",""
+"passed","Tue Sep 29 14:27:22 CST 2020","Tue Sep 29 14:27:22 CST 2020","0","test3","测试套件","TestPytestOne","","","测试标题：用例二","测试用例描述：用例二"
+"failed","Tue Sep 29 14:27:22 CST 2020","Tue Sep 29 14:27:22 CST 2020","5","test3","test_4","TestClass","","","test_two",""

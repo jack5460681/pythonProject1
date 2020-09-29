@@ -1,0 +1,79 @@
+{
+  "ddf5c6d619f4d3d175dd3f9ad6d50aca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a5d06e5b6649c160",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601360842206,
+        "stop" : 1601360842206,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f4c2a2129e7fc7e06325264c4024cb40" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "284636d47a92aaab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601360842271,
+        "stop" : 1601360842271,
+        "duration" : 0
+      }
+    } ]
+  },
+  "fb67a594575074fb76b471f308325fc3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c2eb1d7f8bbbd912",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False\n +  where False = hasattr('test', 'check')",
+      "time" : {
+        "start" : 1601360842206,
+        "stop" : 1601360842211,
+        "duration" : 5
+      }
+    } ]
+  },
+  "6e5f87f452cc8c4bc12b62d7b552cbe6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ef3e03de79257e65",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601360842266,
+        "stop" : 1601360842266,
+        "duration" : 0
+      }
+    } ]
+  }
+}

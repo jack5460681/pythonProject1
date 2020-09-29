@@ -1,0 +1,85 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "测试Dome",
+    "children" : [ {
+      "name" : "测试用例 1",
+      "children" : [ {
+        "name" : "test_one",
+        "uid" : "a5d06e5b6649c160",
+        "parentUid" : "9a937333c1589f211d52d820f48b7e7e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601360842206,
+          "stop" : 1601360842206,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9a937333c1589f211d52d820f48b7e7e"
+    }, {
+      "name" : "测试用例 2",
+      "children" : [ {
+        "name" : "test_two",
+        "uid" : "c2eb1d7f8bbbd912",
+        "parentUid" : "7336b37ba860758ee40744f795bf2d24",
+        "status" : "failed",
+        "time" : {
+          "start" : 1601360842206,
+          "stop" : 1601360842211,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7336b37ba860758ee40744f795bf2d24"
+    } ],
+    "uid" : "86ec50624e62437339bc836b0b62d379"
+  }, {
+    "name" : "*************测试描述*************",
+    "children" : [ {
+      "name" : "测试模块",
+      "children" : [ {
+        "name" : "用户故事描述：用例一",
+        "children" : [ {
+          "name" : "测试标题：用例一",
+          "uid" : "ef3e03de79257e65",
+          "parentUid" : "3aa512d518a1bad9cdec4049794b2e75",
+          "status" : "passed",
+          "time" : {
+            "start" : 1601360842266,
+            "stop" : 1601360842266,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3aa512d518a1bad9cdec4049794b2e75"
+      }, {
+        "name" : "用户故事描述：用例二",
+        "children" : [ {
+          "name" : "测试标题：用例二",
+          "uid" : "284636d47a92aaab",
+          "parentUid" : "eae592bed13826377f3e78e96f4c1fe0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1601360842271,
+            "stop" : 1601360842271,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "eae592bed13826377f3e78e96f4c1fe0"
+      } ],
+      "uid" : "d0836ebef2ec4d9bf7feb071703981f4"
+    } ],
+    "uid" : "437e7c9a7b6698b5a4913e92e1a3a22b"
+  } ]
+}
